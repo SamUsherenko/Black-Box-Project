@@ -1,4 +1,6 @@
-Welcome to The Black Box Project GitHub repository! This repository is dedicated to learning about artificial intelligence (AI), natural language processing (NLP), and deep learning models. Our aim is to provide a comprehensive learning resource for beginners and experts alike who want to delve into the fascinating world of AI.
+Welcome to The Black Box Project!
+
+This repository is dedicated to learning about artificial intelligence (AI), natural language processing (NLP), and deep learning models. Our aim is to provide a comprehensive learning resource for beginners and experts alike who want to delve into the fascinating world of AI.
 
 In this repository, you will find a collection of Jupyter notebooks, code examples, and tutorials that cover a wide range of AI topics. We cover the basics of Python programming and data preprocessing, as well as more advanced topics such as deep learning models, computer vision, and NLP.
 
